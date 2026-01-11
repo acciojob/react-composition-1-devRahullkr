@@ -8,7 +8,6 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <h1>Hello world</h1>
-        <h1>Hello world</h1>
         <ul>
           <li onClick={(e) => setTab(1)}>Tab 1</li>
           <li onClick={(e) => setTab(2)}>Tab 2</li>
