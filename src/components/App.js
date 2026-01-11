@@ -13,7 +13,7 @@ const App = () => {
           <li onClick={(e) => setTab(2)}>Tab 2</li>
           <li onClick={(e) => setTab(3)}>Tab 3</li>
         </ul>
-        <p>This is the content for Tab {tab}</p>
+        <p>This is the content for Tab {tab}.</p>
     </div>
   )
 }
